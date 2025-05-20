@@ -18,7 +18,7 @@ Through this review process, I've identified these areas for continued learning:
 
 - Topic/Concept 1: Learning to pace myself in the testing experience more, my brain was scattered during the FRQ portion and it was hard to concentrate on the long and extensive questions after the MCQ.
 - Topic/Concept 2: Learning to read the questions carefully, during the test I had a hard time comprehending some questions.
-- Programming practice: [Specific practice goals]
+- Programming practice: ArrayLists, I struggled with them
 
 ## Resources
 Resources I found helpful during my exam preparation and review:
